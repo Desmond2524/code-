@@ -1,0 +1,9 @@
+choice = input("please enter your favorite mairo bros character! ")
+if choice == "Mario":
+    print("it's a me!")
+elif choice == "luigi":
+    print("luigi time!")
+elif choice == "Peach":
+    print("would you like some cake!?")
+else:
+    print("sorry, I don't know that character :( ") 
